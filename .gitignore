@@ -1,0 +1,23 @@
+# Arquivos gerados pelo PlatformIO
+.pio/
+
+# Arquivos locais do VS Code
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch/
+
+# Binários compilados
+*.bin
+*.elf
+*.map
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+ed100.pdf
